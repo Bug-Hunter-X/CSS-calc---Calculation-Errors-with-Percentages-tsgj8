@@ -1,0 +1,1 @@
+To avoid unexpected results from `calc()` and percentages, ensure that the parent element has explicitly defined dimensions (either in pixels, ems, or percentages).   If the parent's width depends on its content, you might need to use a different approach, such as JavaScript or a more robust CSS layout technique like flexbox or grid.
