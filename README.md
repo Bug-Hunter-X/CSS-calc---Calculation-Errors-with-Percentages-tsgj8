@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with the CSS `calc()` function when dealing with percentages.  The `bug.css` file shows how using `calc()` with percentages without careful consideration of the parent element's dimensions can lead to unexpected results. The `solution.css` file offers a solution to correct the calculation and achieve the desired outcome.
